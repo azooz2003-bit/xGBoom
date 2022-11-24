@@ -9,4 +9,5 @@ This model was created to analyze the xG (expected goals) of a team in a soccer 
 
 
 # Tools used: 
+Frameworks: Python, Sklearn, Pandas, NumPy
 Datasets featuring shot statistics from https://github.com/douglasbc/scraping-understat-dataset by douglasbc.
